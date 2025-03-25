@@ -190,7 +190,7 @@ identifier.argument {
 
 /* Strings */
 string {
-  color: #cbccc6;
+  color: #bae67e;
 }
 string.key {
   color: #5ccfe6;
@@ -199,7 +199,7 @@ string-template {
   color: #bae67e;
 }
 string-template.value {
-  color: ##cbccc6;
+  color: #cbccc6;
 }
 regex {
   color: #95e6cb;
